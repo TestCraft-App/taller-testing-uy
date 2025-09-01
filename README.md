@@ -73,7 +73,7 @@ python ./main.py http://catcafeproject.us-east-1.elasticbeanstalk.com/swagger.js
 
 ### 2. Revisar los tests y modelos generados
 
-### 3. Elelgir un test de los generados y agregar a la suite los tests que crean necesarios
+### 3. Elegir una suite de tests de las generadas y agregarle los tests que crean necesarios
 
 ---
 
