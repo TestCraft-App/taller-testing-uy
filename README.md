@@ -48,7 +48,7 @@ code .
 ```
 Copiar el archivo example .env en VS Code y luego editarlo para colocar la API Key de Anthropic.
 
-Para obtener la clave, ingresar a: // TODO
+Para obtener la clave, ingresar a: [API Key](https://send.bitwarden.com/#ZVBJaj-W8E6_GbNNATnBvA/sCfXrbUVJZfcekwnlFZSJQ)
 
 ```
 ANTHROPIC_API_KEY=CLAVE_REAL_AQUI
