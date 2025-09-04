@@ -3,6 +3,7 @@
 ## Recursos
 
 - Cat Café API: http://catcafeproject.us-east-1.elasticbeanstalk.com/api-docs/
+- API Automation Training: https://github.com/damianpereira86/api-automation-training
 
 ## Setup
 
